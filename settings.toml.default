@@ -1,0 +1,5 @@
+apikey = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+admins = [00000, 111111]
+Mysql_user = "calvinHobbes"
+Mysql_passwd = "AapjesEtenBananen"
+Mysql_dbname = "calvinHobbes"
